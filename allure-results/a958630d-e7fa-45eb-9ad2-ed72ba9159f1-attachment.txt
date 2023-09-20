@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@id=\"adminui-users\"]/div[1]/div[2]/table/tbody/tr[7]/td[1]/input"
+}

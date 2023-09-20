@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//option[contains(., \"Male\") and not(.//option)]"
+}

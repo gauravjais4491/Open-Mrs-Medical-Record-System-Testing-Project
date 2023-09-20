@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "#coreapps-activeVisitsHomepageLink-coreapps-activeVisitsHomepageLink-extension"
+}

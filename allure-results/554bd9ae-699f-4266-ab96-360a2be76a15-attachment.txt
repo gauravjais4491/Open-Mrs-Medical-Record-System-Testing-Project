@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@id=\"list-accounts_filter\"]/label/input"
+}

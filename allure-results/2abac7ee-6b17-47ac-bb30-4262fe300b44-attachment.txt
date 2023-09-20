@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "#coreapps-systemadministration-homepageLink-coreapps-systemadministration-homepageLink-extension"
+}
